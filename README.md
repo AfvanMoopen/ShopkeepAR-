@@ -1,11 +1,8 @@
+SHOPKEEPER 
 
-###SHOPKEEPER 
-
-##Essential Store for Purchases with 
-  **ECHO AR**
-
-
- **Firebase**
+Essential Store for Purchases with 
+ >ECHO AR
+ >Firebase
 
  ---------------------------------------------------------------------------------------------
  
